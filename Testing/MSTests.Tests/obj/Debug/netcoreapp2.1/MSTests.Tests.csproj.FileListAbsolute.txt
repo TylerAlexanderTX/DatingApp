@@ -1,0 +1,17 @@
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\obj\Debug\netcoreapp2.1\MSTests.Tests.csprojAssemblyReference.cache
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\obj\Debug\netcoreapp2.1\MSTests.Tests.csproj.CoreCompileInputs.cache
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\obj\Debug\netcoreapp2.1\MSTests.Tests.AssemblyInfoInputs.cache
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\obj\Debug\netcoreapp2.1\MSTests.Tests.AssemblyInfo.cs
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\bin\Debug\netcoreapp2.1\MSTests.Tests.deps.json
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\bin\Debug\netcoreapp2.1\MSTests.Tests.runtimeconfig.json
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\bin\Debug\netcoreapp2.1\MSTests.Tests.runtimeconfig.dev.json
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\bin\Debug\netcoreapp2.1\MSTests.Tests.dll
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\bin\Debug\netcoreapp2.1\MSTests.Tests.pdb
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\bin\Debug\netcoreapp2.1\DatingApp.API.dll
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\bin\Debug\netcoreapp2.1\DatingApp.API.pdb
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\obj\Debug\netcoreapp2.1\MSTests.Tests.csproj.CopyComplete
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\obj\Debug\netcoreapp2.1\MSTests.Tests.dll
+C:\Users\tyalexan\source\repos\DatingApp\Testing\MSTests.Tests\obj\Debug\netcoreapp2.1\MSTests.Tests.pdb
